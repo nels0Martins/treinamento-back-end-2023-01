@@ -1,4 +1,4 @@
-import random 
+import random
 
 print("SORTEANDO ENTRE 3 PESSOAS")
 
